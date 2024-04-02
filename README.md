@@ -41,7 +41,3 @@ The training data includes input data and label data. input data are in the "./d
   publisher={IEEE}
 }
 ```
-
-## Contact
-
-If you have any questions, please contact Shiben Liu at liushiben310@163.com.
